@@ -1,0 +1,7 @@
+HcLauncheR Updates are:
+
+-Security patch.
+-Fix network issue.
+
+
+Click "OK" to continue updating...
