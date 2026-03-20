@@ -2,6 +2,7 @@ HcLauncheR Updates are:
 
 -Security patch.
 -Fix network issue.
+Visit: https://igi2multiplayer.pages.dev
 
 
 Click "OK" to continue updating...
